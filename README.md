@@ -31,7 +31,6 @@ Simulations, including Inverting Operational Amplifier Configuration, were condu
 ![image](https://github.com/nandinikumawat/Contactless-Electronic-Thermometer/assets/63352345/45f1ed0a-a1b5-419b-baf2-4cee14937bbd)
 
 ## Circuit Diagram
-![Circuit Diagram](link-to-circuit-diagram-image)
 ![image](https://github.com/nandinikumawat/Contactless-Electronic-Thermometer/assets/63352345/c43d365e-33ff-4c7d-9f77-7577b6b5219a)
 
 ## Results
@@ -39,9 +38,6 @@ The project aims to provide an affordable and user-friendly solution for body te
 
 ## Contributing
 Contributions are welcome! Please check out the [contribution guidelines](CONTRIBUTING.md) for details.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or inquiries, please contact [Nandini Kumawat] at nandinikumawat@gmail.com
