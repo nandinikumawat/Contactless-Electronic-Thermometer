@@ -1,6 +1,4 @@
 # Contactless-Electronic-Thermometer
-# Body Temperature Detection System
-
 ## Overview
 This project focuses on developing an innovative Body Temperature Detection System using a Thermopile Sensor and operational amplifiers (OpAmp). The system leverages the Stefan–Boltzmann Law to detect the energy radiated by the body, providing an instant interpretation of the body temperature.
 
